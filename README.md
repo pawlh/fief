@@ -10,7 +10,7 @@ Are you tired of combing through dozens of .io games? Then Fief --notably _not_ 
 * **Mobile Friendly** - Works on any device with a browser!
 * **Restricted View** - Only see tiles close to your structures
 * **Buildings** - Build villages and barracks to increase your power
-* **High Score** - Compete with your friends to see who can build the mightiest kingdom
+* **Persistent Scoreboard** - Compete with your friends to and track who has the most wins
 
 # Concept Mockup
 
