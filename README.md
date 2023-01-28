@@ -11,3 +11,7 @@ Are you tired of combing through dozens of .io games? Then Fief --notably _not_ 
 * **Restricted View** - Only see tiles close to your structures
 * **Buildings** - Build villages and barracks to increase your power
 * **High Score** - Compete with your friends to see who can build the mightiest kingdom
+
+# Concept Mockup
+
+![desktop mockup](desktop-mock.png)
